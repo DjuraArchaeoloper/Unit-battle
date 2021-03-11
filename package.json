@@ -1,0 +1,12 @@
+{
+  "name": "unit-battle",
+  "version": "1.0.0",
+  "description": "Unit battle assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Djuradj Djuric",
+  "license": "ISC",
+  "type": "module"
+}
