@@ -1,4 +1,4 @@
-# fatcat-Unit-battle
+# Unit-battle
 
 The unit battle assignment. There is only three units, but more can be added in the `config.js` file as well as the `functions.js` file, with the unitFight function. 
 
